@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">InventoryStage1</string>
+    <string name="add_product_button">Add Product</string>
+    <string name="product">Product </string>
+    <string name="name">Name</string>
+    <string name="quantity"> Quantity</string>
+    <string name="price">Price</string>
+    <string name="supplier">Supplier</string>
+    <string name="supplier_phone_number"> Phone number</string>
+    <string name="save">SAVE</string>
+    <string name="cannot_be_empty"> This field cannot be empty!</string>
+    <string name="save_error"> Error with saving Product</string>
+    <string name="added_info"> Product added!</string>
+    <string name="row_id"> Row id:</string>
+    <string name="add_product"> Add </string>
+    <string name="empty_field_error"> You must enter a value!</string>
+    <string name="phone_number_error"> Phone number must contain 10 digits!</string>
+    <string name="Type_name">Type your</string>
+</resources>
